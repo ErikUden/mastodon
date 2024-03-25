@@ -19,10 +19,12 @@
 #  avatar_content_type           :string
 #  avatar_file_size              :integer
 #  avatar_updated_at             :datetime
+#  avatar_alt_text               :string
 #  header_file_name              :string
 #  header_content_type           :string
 #  header_file_size              :integer
 #  header_updated_at             :datetime
+#  header_alt_text               :string
 #  avatar_remote_url             :string
 #  locked                        :boolean          default(FALSE), not null
 #  header_remote_url             :string           default(""), not null
